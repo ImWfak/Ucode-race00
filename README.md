@@ -1,5 +1,5 @@
 # Ucode-race00
-Our team worked hard and we are happy to share our code with you)
+We worked hard and we are happy to present our code with you)
 
 =================================================================
 
